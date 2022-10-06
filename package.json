@@ -1,0 +1,27 @@
+{
+  "name": "bootsrap_tutorial",
+  "version": "1.0.0",
+  "description": "Bootstrap tutorial from FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamflinks/bootstarp_tutorial.git"
+  },
+  "keywords": [
+    "HTMl",
+    "CSS",
+    "JS"
+  ],
+  "author": "Femi Olugbon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/iamflinks/bootstarp_tutorial/issues"
+  },
+  "homepage": "https://github.com/iamflinks/bootstarp_tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
